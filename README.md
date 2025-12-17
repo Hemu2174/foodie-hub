@@ -1,15 +1,15 @@
-##🍔 Foodie-hub
+# 🍔Foodie-hub
 
 Delicious Foods - A modern, responsive food showcase website featuring animated navigation, rotating food icons, interactive meal cards, and a beautiful food gallery with smooth animations and hover effects.
 
-##Sceenshots
+## Screenshots
 
 ![Hero Section](screenshots/hero.png.png)
 ![Popular Meals](screenshots/popular-meals.png)
 ![Food Gallery](screenshots/food-gallery.png)
 ![Email Signup](screenshots/email-signup.png)
 
-##✨ Features
+## Features
 
 -Animated navbar with menu toggle
 -Hero section with rotating food icons
@@ -18,7 +18,8 @@ Delicious Foods - A modern, responsive food showcase website featuring animated 
 -Email signup section
 -Fully responsive design for all devices
 
-##🛠️ Technologies Used
+
+## Technologies Used
 
 -HTML5
 -CSS3
@@ -26,7 +27,8 @@ Delicious Foods - A modern, responsive food showcase website featuring animated 
 -Font Awesome (Icons)
 -Google Fonts (Nunito)
 
-##📁 Project Structure
+
+## Project Structure
 
 Foodie-hub/
 ├── index.html
