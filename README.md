@@ -22,24 +22,38 @@ Delicious Foods - A modern, responsive food showcase website featuring animated 
 ## Technologies Used
 
 -HTML5
+
 -CSS3
+
 -JavaScript
+
 -Font Awesome (Icons)
+
 -Google Fonts (Nunito)
 
 
 ## Project Structure
 
 Foodie-hub/
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── images/
+
     ├── burger.jpg
+    
     ├── cupcake.jpeg
+    
     ├── grilled.jpg
+    
     ├── pancake.jpeg
+    
     ├── sandwich.jpg
+    
     ├── vegetables.jpeg
 
 ## Author
