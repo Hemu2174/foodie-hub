@@ -12,10 +12,15 @@ Delicious Foods - A modern, responsive food showcase website featuring animated 
 ## Features
 
 -Animated navbar with menu toggle
+
 -Hero section with rotating food icons
+
 -Popular meals cards with hover effects
+
 -Food gallery with colorful shadows and animations
+
 -Email signup section
+
 -Fully responsive design for all devices
 
 
@@ -55,6 +60,9 @@ Foodie-hub/
     ├── sandwich.jpg
     
     ├── vegetables.jpeg
+
+# Live demo
+https://foodie-hub-three-peach.vercel.app/
 
 ## Author
 Hemanth
